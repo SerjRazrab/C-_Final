@@ -1,0 +1,15 @@
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\obj\Debug\net6.0\test_home2.csproj.AssemblyReference.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\obj\Debug\net6.0\test_home2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\obj\Debug\net6.0\test_home2.AssemblyInfoInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\obj\Debug\net6.0\test_home2.AssemblyInfo.cs
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\obj\Debug\net6.0\test_home2.csproj.CoreCompileInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\bin\Debug\net6.0\test_home2.exe
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\bin\Debug\net6.0\test_home2.deps.json
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\bin\Debug\net6.0\test_home2.runtimeconfig.json
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\bin\Debug\net6.0\test_home2.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\bin\Debug\net6.0\test_home2.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\obj\Debug\net6.0\test_home2.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\obj\Debug\net6.0\refint\test_home2.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\obj\Debug\net6.0\test_home2.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\obj\Debug\net6.0\test_home2.genruntimeconfig.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Test\test_home2\obj\Debug\net6.0\ref\test_home2.dll
