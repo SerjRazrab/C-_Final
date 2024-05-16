@@ -43,7 +43,8 @@ public class Main {
             System.out.println("Выполняем удаление контакта");
             System.out.println("Укажите имя контакта : ");
             String delete = scanner.nextLine();
-            System.out.println(contact.remove(delete)+ "\nКонтакт успешно удален");}
+            System.out.println(contact.remove(delete)+ "\nКонтакт успешно удален");
+            }
 
             else if (action.equals("4")){
                 //flag = false;
@@ -53,12 +54,14 @@ public class Main {
             
             System.out.println(contact);
         }
-    }
         
+    }
+    
         catch(IOException e){
             System.out.println("Error " + e);
             
             }
+            scanner.close();
         }
     }
     
