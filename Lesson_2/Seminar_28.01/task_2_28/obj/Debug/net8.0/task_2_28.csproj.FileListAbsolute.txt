@@ -1,0 +1,14 @@
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\obj\Debug\net8.0\task_2_28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\obj\Debug\net8.0\task_2_28.AssemblyInfoInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\obj\Debug\net8.0\task_2_28.AssemblyInfo.cs
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\obj\Debug\net8.0\task_2_28.csproj.CoreCompileInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\bin\Debug\net8.0\task_2_28.exe
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\bin\Debug\net8.0\task_2_28.deps.json
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\bin\Debug\net8.0\task_2_28.runtimeconfig.json
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\bin\Debug\net8.0\task_2_28.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\bin\Debug\net8.0\task_2_28.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\obj\Debug\net8.0\task_2_28.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\obj\Debug\net8.0\refint\task_2_28.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\obj\Debug\net8.0\task_2_28.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\obj\Debug\net8.0\task_2_28.genruntimeconfig.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_28.01\task_2_28\obj\Debug\net8.0\ref\task_2_28.dll

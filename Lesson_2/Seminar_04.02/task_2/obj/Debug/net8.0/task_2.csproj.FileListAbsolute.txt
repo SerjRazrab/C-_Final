@@ -1,0 +1,14 @@
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\obj\Debug\net8.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\obj\Debug\net8.0\task_2.AssemblyInfoInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\obj\Debug\net8.0\task_2.AssemblyInfo.cs
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\obj\Debug\net8.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\bin\Debug\net8.0\task_2.exe
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\bin\Debug\net8.0\task_2.deps.json
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\bin\Debug\net8.0\task_2.runtimeconfig.json
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\bin\Debug\net8.0\task_2.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\bin\Debug\net8.0\task_2.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\obj\Debug\net8.0\task_2.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\obj\Debug\net8.0\refint\task_2.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\obj\Debug\net8.0\task_2.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\obj\Debug\net8.0\task_2.genruntimeconfig.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson_2\Seminar_04.02\task_2\obj\Debug\net8.0\ref\task_2.dll

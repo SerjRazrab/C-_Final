@@ -1,0 +1,14 @@
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\obj\Debug\net8.0\home_03.02_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\obj\Debug\net8.0\home_03.02_03.AssemblyInfoInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\obj\Debug\net8.0\home_03.02_03.AssemblyInfo.cs
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\obj\Debug\net8.0\home_03.02_03.csproj.CoreCompileInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\bin\Debug\net8.0\home_03.02_03.exe
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\bin\Debug\net8.0\home_03.02_03.deps.json
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\bin\Debug\net8.0\home_03.02_03.runtimeconfig.json
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\bin\Debug\net8.0\home_03.02_03.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\bin\Debug\net8.0\home_03.02_03.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\obj\Debug\net8.0\home_03.02_03.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\obj\Debug\net8.0\refint\home_03.02_03.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\obj\Debug\net8.0\home_03.02_03.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\obj\Debug\net8.0\home_03.02_03.genruntimeconfig.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Test\home_03.02_03\obj\Debug\net8.0\ref\home_03.02_03.dll
