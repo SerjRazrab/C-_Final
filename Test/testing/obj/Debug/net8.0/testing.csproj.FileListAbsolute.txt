@@ -1,0 +1,14 @@
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\obj\Debug\net8.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\obj\Debug\net8.0\testing.AssemblyInfoInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\obj\Debug\net8.0\testing.AssemblyInfo.cs
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\obj\Debug\net8.0\testing.csproj.CoreCompileInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\bin\Debug\net8.0\testing.exe
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\bin\Debug\net8.0\testing.deps.json
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\bin\Debug\net8.0\testing.runtimeconfig.json
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\bin\Debug\net8.0\testing.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\bin\Debug\net8.0\testing.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\obj\Debug\net8.0\testing.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\obj\Debug\net8.0\refint\testing.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\obj\Debug\net8.0\testing.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\obj\Debug\net8.0\testing.genruntimeconfig.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Test\testing\obj\Debug\net8.0\ref\testing.dll

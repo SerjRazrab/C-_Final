@@ -1,37 +1,44 @@
-﻿//Задайте массив заполненный случайными трёхзначными числами. 
-//Напишите программу, которая покажет количество чётных чисел в массиве.
+﻿//// 1. Задайте двумерный массив. Найдите элементы, у которых оба
+//    индекса чётные, и замените эти элементы на их квадраты.
 
-using System;
-class Program
+int[,] CreateMatrix(int rowCount, int columsCount) // Функция создания матрицы с элементами от 1 до 999
 {
-    
-    static void Main()
-    {   
-        Console.Clear();
-        Console.Write("Введите количество элементов массива:");
-        int a = Convert.ToInt32(Console.ReadLine());
-        int[] RandomArr = new int[a]; 
-                            
-
-        for (int i = 0; i < a; i++)
+    int[,] matrix = new int[rowCount, columsCount];
+    Random rnd = new Random();
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            RandomArr[i] = new Random().Next(99,999);
-            {
-                Console.Write(RandomArr[i] + " "); // Вывод сгенерированного числа
-            }
+            matrix[i, j] = rnd.Next(1, 11);
         }
-            int kol(int[] RandomArr)
-            {
-                int kol = 0;// Счетчик четных чисел// Заполнение массива случайными трехзначными числами
-                for (int i = 0; i < RandomArr.Length; i++)
-                {
-                    if (RandomArr[i] % 2 == 0) // Проверка на четность и увеличение счетчика 
-                    kol = kol + 1;
-                }
-
-                return kol;  
-            
-            }
-            Console.WriteLine($"\nКол-во четных чисел : {kol(RandomArr)}"!);
-        } 
+    }
+    return matrix;
 }
+
+void ShowMatrix(int[,] matrix) // Функция вывода матрицы на экран
+{
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            Console.Write($"{matrix[i, j]} ");
+        }
+        Console.WriteLine();
+    }
+}
+
+int[,] matrix = CreateMatrix(3, 4); // Задание размера матрицы и инициализация "интересного" числа.
+ShowMatrix(matrix);
+
+void evenIndex(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i+=2)
+    {
+        for (int j = 0; j < array.GetLength(1); j+=2)
+        {
+            array[i, j] = array[i, j] * array[i, j];
+        }
+    }
+} 
+evenIndex(matrix);
+ShowMatrix(matrix);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Разраб Сергей\\Desktop\\GIT\\Test\\test_home1\\test_home1.csproj": {}
+    "C:\\Users\\Разраб Сергей\\Desktop\\GIT\\Test\\test_Home1\\test_home1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Разраб Сергей\\Desktop\\GIT\\Test\\test_home1\\test_home1.csproj": {
+    "C:\\Users\\Разраб Сергей\\Desktop\\GIT\\Test\\test_Home1\\test_home1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Разраб Сергей\\Desktop\\GIT\\Test\\test_home1\\test_home1.csproj",
+        "projectUniqueName": "C:\\Users\\Разраб Сергей\\Desktop\\GIT\\Test\\test_Home1\\test_home1.csproj",
         "projectName": "test_home1",
-        "projectPath": "C:\\Users\\Разраб Сергей\\Desktop\\GIT\\Test\\test_home1\\test_home1.csproj",
+        "projectPath": "C:\\Users\\Разраб Сергей\\Desktop\\GIT\\Test\\test_Home1\\test_home1.csproj",
         "packagesPath": "C:\\Users\\Разраб Сергей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Разраб Сергей\\Desktop\\GIT\\Test\\test_home1\\obj\\",
+        "outputPath": "C:\\Users\\Разраб Сергей\\Desktop\\GIT\\Test\\test_Home1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Разраб Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config"
