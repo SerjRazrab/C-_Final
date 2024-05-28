@@ -13,12 +13,14 @@ class Program
             for (int i = 0; i < arr.Length; i++)
             {
                 int value = 0;
-                if (arr[i].Length <= 3)
+                if (arr[i].Length <= 2)
                 {
                     arr2[i] = arr[i];
                     value++;
                 }
+
             }
+
         }
 
         void PrintArrays(string[] array)
