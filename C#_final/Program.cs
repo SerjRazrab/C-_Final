@@ -22,8 +22,16 @@ class Program
             }
 
         }
-
-    
+        void PrintArrays(string[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write($"{array[i]} ");
+            }
+            Console.WriteLine();
+        }
+        Arrays(arr, arr2);
+        PrintArrays(arr2);
     }
 }
 
